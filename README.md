@@ -1,0 +1,7 @@
+# LEARNtoken
+
+LEARNtoken Deployments
+
+Mainnet _ 0x842C521436E6E91B3c1919a0240e91D1788265f0
+
+Goerli testnet _ 0xf5eb211843240c45b6aca51aba5fb116bf0e972e
